@@ -1,4 +1,4 @@
 {
   "surum": "2",
-  "link": "https://github.com/kullanici/xtv-guncelleme/releases/download/v2/xtv.apk"
+  "link": "https://github.com/1XTRAPP/xtv-guncelleme/raw/refs/heads/main/XTV%20(1).apk"
 }
