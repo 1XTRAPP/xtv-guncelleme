@@ -2,11 +2,15 @@
   "channels": [
     {
       "n": "beIN Sports 1 A",
-      "s": "https://main.uxsyplayer6859599e6c.click/index.php?id=selcukbeinsports1",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://340.zirvedesin251.lol/zirve/mono.m3u8",
+      "c": "futbol"
     },
     {
       "n": "beIN Sports 1 A 4K",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBibOuTcFo7UidHmjBaIQBRNQBriGZFyWA28vnLg2YQ&s=10",
       "s": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=tr&user=cdnlivetv&plan=free",
+      "c": "futbol"
     },
     {
       "n": "beIN Sports 1 B",
