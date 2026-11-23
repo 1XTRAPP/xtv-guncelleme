@@ -1,10 +1,345 @@
-[
-  {
-    "isim": "TRT 1",
-    "link": "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8xxxj5dlwwwb&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2"
-  },
-  {
-    "isim": "TRT Haber",
-    "link": "https://trt.com.tr"
+{
+  "channels": [
+    {
+      "n": "beIN Sports 1 A",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://main.uxsyplayer6859599e6c.click/index.php?id=beinsports1#watermark=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiY5ydWdH5ipZ-CStTENCosH54wUGVZxJS3hPSXp5h9rLCMho-lLcKXlwKwxhTndl2Lr7BE0Rh82nfKUzeGB34-tgs5JZZI2zjez1BxSwvUZxDj8Epmpc5623uqAMEQjP_d8u_VemhOTV6F56af5iw_2auq7oDrL_WqzTmNTHnau5AIlE3k_Vmw8uYO9zc%2Fs16000%2Fkblg.png&reklamResim=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEg0YcL2af1seYgOxzYCDx93_w4KitGwmSYlgiwV3ldcK6B5qgs8HYZrNdEXV8Wh7sD-NQRWUw2izAXr3Y-2IZv7JWlwisHXfWgOGfLOFc3-mDuEKGlkUbQZDNCB0wfJGDsSGru1VJsu7KwbUBT1s871vcJHYCguB-uLQBVhNjleOsDFoZmgsmMk8JsVR_c%2Fs16000%2Fkbbt.gif&reklamGidis=https%3A%2F%2Ft.ly%2F7ghos&referrer=www.sporcafe-adres.xyz",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 A 4K",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBibOuTcFo7UidHmjBaIQBRNQBriGZFyWA28vnLg2YQ&s=10",
+      "s": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=tr&user=cdnlivetv&plan=free",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 B",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://restizle858.com/ch?id=zirve",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 B FHD",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://biatsports44.com/channel?id=zirve",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 C",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://39macvartv.live/channel?id=zirve",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 C 4K",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://gomstream.xyz/live/stream-62.php",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 D",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://mahsunsports60.xyz/event.html?id=androstreamlivebs1",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 E",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://fixbettv84.com/channel?id=zirve",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 FB",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://ardaspor40.top/loadstream.php?...&id=17224164",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 1 G",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-1-buyuk.png",
+      "s": "https://selcuksports180.top/matches?id=bein-sports-1",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 2",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpAXpqH_xLLARWqTPPfdNKW-4cxY19hRe_hreugiD3g&s=10",
+      "s": "https://fixbettv84.com/channel?id=b2",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 2 FHD",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/beinsports2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 3",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFHaY3dT7njKbf481AHvyWNK0MAb3VtvcQMjOP6OFkA&s",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/beinsports3/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 4",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjRGHtVox7JX-mWrhfqbmsqJAknODUKF4lCvMAsB0lQ&s=10",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/beinsports4/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "beIN Sports 5",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/beinsports5/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "BEIN SPORTS MAX 1",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png",
+      "s": "sbeinsports-max1",
+      "c": "futbol"
+    },
+    {
+      "n": "BEIN SPORTS MAX 2",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-max-2-hd-buyuk.png",
+      "s": "sbeinsports-max2",
+      "c": "futbol"
+    },
+    {
+      "n": "EUROSPORT 1",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/eurosport-1-hd-buyuk.png",
+      "s": "seurosport1",
+      "c": "futbol"
+    },
+    {
+      "n": "EUROSPORT 2",
+      "l": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/eurosport-2-hd-buyuk.png",
+      "s": "seurosport2",
+      "c": "futbol"
+    },
+    {
+      "n": "S Sport 1",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "S Sport 1 FHD",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",
+      "s": "https://fixbettv84.com/channel?id=ss",
+      "c": "futbol"
+    },
+    {
+      "n": "S Sport 2",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "S Sport 2 FHD",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg",
+      "s": "https://fixbettv84.com/channel?id=ss2",
+      "c": "futbol"
+    },
+    {
+      "n": "SMART SPOR 1",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "SMART SPOR 2",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "TABII SPOR",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxB5ubyESSDau1WoodA6k7lueqQs3Wkt2lIT9nuc5Zmt9tCpVH8cuHV24&s=10",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "TABII SPOR 1",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxB5ubyESSDau1WoodA6k7lueqQs3Wkt2lIT9nuc5Zmt9tCpVH8cuHV24&s=10",
+      "s": "stabii-spor-1",
+      "c": "futbol"
+    },
+    {
+      "n": "Tabii Spor 2 HD",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxB5ubyESSDau1WoodA6k7lueqQs3Wkt2lIT9nuc5Zmt9tCpVH8cuHV24&s=10",
+      "s": "stabii-spor-2",
+      "c": "futbol"
+    },
+    {
+      "n": "Tabii Spor 6",
+      "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxB5ubyESSDau1WoodA6k7lueqQs3Wkt2lIT9nuc5Zmt9tCpVH8cuHV24&s=10",
+      "s": "stabii-spor-6",
+      "c": "futbol"
+    },
+    {
+      "n": "TIVIBU SPOR HD",
+      "l": "https://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ=s900-c-k-c0x00ffffff-no-rj",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/ssport2/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "TIVIBU SPOR 1 HD",
+      "l": "https://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ=s900-c-k-c0x00ffffff-no-rj",
+      "s": "stivibu-spor-1-hd",
+      "c": "futbol"
+    },
+    {
+      "n": "TIVIBU SPOR 2 HD",
+      "l": "https://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ=s900-c-k-c0x00ffffff-no-rj",
+      "s": "stivibu-spor-2-hd",
+      "c": "futbol"
+    },
+    {
+      "n": "TIVIBU SPOR 3",
+      "l": "https://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ=s900-c-k-c0x00ffffff-no-rj",
+      "s": "stivibu-spor-3",
+      "c": "futbol"
+    },
+    {
+      "n": "TIVIBU SPOR 4",
+      "l": "https://yt3.googleusercontent.com/VfKm_ajwsvkrsG4O6-5m1-LBAo8mgiAz4htzprv1zcF5liZ1Zgz5ANNbU_PYI8CE173sFIOqtQ=s900-c-k-c0x00ffffff-no-rj",
+      "s": "stivibu-spor-4",
+      "c": "futbol"
+    },
+    {
+      "n": "TJK TV",
+      "l": "https://cdn.bolgegundem.com.tr/other/2021/03/17/4-013.png",
+      "s": "https://tjktv.ercdn.net/tjktv_720p.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "ATV",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/250px-Atv_logo_2010.svg.png",
+      "s": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "SHOW TV",
+      "l": "https://1.bp.blogspot.com/-EBXNK9fF1kw/Vpgdq6W0N1I/AAAAAAAANro/jD4SpbKMcbg/s1600/showhd.jpg",
+      "s": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_360p.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TRT 1",
+      "l": "https://sm.mashable.com/t/mashable_tr/photo/default/trt-1-neden-acilmiyor-cozumu-nedir_ep7p.1248.png",
+      "s": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TRT 1 A",
+      "l": "https://sm.mashable.com/t/mashable_tr/photo/default/trt-1-neden-acilmiyor-cozumu-nedir_ep7p.1248.png",
+      "s": "https://tv-trt1.medya.trt.com.tr/master_1440.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TRT 2 FHD",
+      "l": "https://www.trt2.com.tr/images/share-1000x500.jpg",
+      "s": "https://tv-trt2.medya.trt.com.tr/master_1440.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TRT 3",
+      "l": "https://upload.wikimedia.org/wikipedia/commons/6/60/TRT_3_HD_kurumsal_logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "s": "https://tv-trtturk.medya.trt.com.tr/master_360.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TV 100",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "s": "https://www.youtube.com/embed/4WSvLRk83-c?si=F6Hg_KQOz8rsU5yM",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TV 8,5",
+      "l": "https://static.ssportplus.com/wp-content/uploads/2024/03/TV-85-768x768.png",
+      "s": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_360p.m3u8",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "TV8",
+      "l": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/250px-Tv8_Yeni_Logo.png",
+      "s": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8tjd63m3t01m&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+      "c": "ulusal-kanallar"
+    },
+    {
+      "n": "Özbekiston Tarixi",
+      "l": "https://i.imgur.com/iTTd3Ir.png",
+      "s": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+      "c": "belgesel"
+    },
+    {
+      "n": "TRT Belgesel",
+      "l": "https://images.seeklogo.com/logo-png/61/2/trt-belgesel-logo-png_seeklogo-612600.png",
+      "s": "https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8",
+      "c": "belgesel"
+    },
+    {
+      "n": "WildEarth",
+      "l": "https://wildearth.tv/images/WE_LOGO_DARK.png",
+      "s": "https://tvmaxie-proxy.groggoss.workers.dev/?url=https%3A%2F%2Fdqga3jatxofgx.cloudfront.net%2FWildEarth1080.m3u8",
+      "c": "belgesel"
+    },
+    {
+      "n": "TRT Spor",
+      "l": "https://tvf.org.tr/storage/18866/CL-Men-e1536671585501.png",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/trtspor/playlist.m3u8",
+      "c": "futbol"
+    },
+    {
+      "n": "TRT SPOR YILDIZ",
+      "l": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1584000/trt-spor-yildiz-logo-1584109.jpg",
+      "s": "https://dga1op10s1u3lea.aae77b66b9d557.click/live/trtspor2/playlist.m3u8",
+      "c": "futbol"
+    }
+  ],
+  "categories": [
+    {
+      "n": "Spor Kanalları",
+      "s": "futbol"
+    },
+    {
+      "n": "Ulusal Kanallar",
+      "s": "ulusal-kanallar"
+    },
+    {
+      "n": "Belgesel",
+      "s": "belgesel"
+    }
+  ],
+  "admins": [
+    {
+      "u": "admin",
+      "p": "xtv2024admin",
+      "role": "super"
+    },
+    {
+      "u": "admin2",
+      "p": "3535",
+      "role": "normal"
+    }
+  ],
+  "ad": {
+    "enabled": true,
+    "image": "https://teaserfast.ru/banners/728_90_03.jpg",
+    "target": "https://teaserfast.ru/u/parakazanco",
+    "dismissible": true,
+    "duration": 0,
+    "leftEnabled": true,
+    "leftImage": "http://link.tl/webroot/img/referral/160x600.gif",
+    "leftTarget": "https://link.tl?r=291970",
+    "rightEnabled": true,
+    "rightImage": "https://teaserfast.ru/banners/a_728_90_02.jpg",
+    "rightTarget": "https://teaserfast.ru/u/parakazanco",
+    "bottomEnabled": true,
+    "bottomImage": "http://link.tl/webroot/img/referral/120x600.gif",
+    "bottomTarget": "https://link.tl?r=291970",
+    "mobileSticky": true,
+    "mainSize": "auto",
+    "leftSize": "vertical",
+    "rightSize": "vertical",
+    "bottomSize": "horizontal"
   }
-]
+}
